@@ -76,7 +76,9 @@ Return the exercise as a link to your GitHub repository.
 
 Feel free to use whatever you think is best for this kind of stuff.
 
-React/Vue.js/Angular or something else for the frontend. All is fine.
+React/Vue.js/Angular or something else for the web frontend. All is fine.
+
+Swift/Kotlin/React Native/Flutter etc. or a mobile technology of your choice.
 
 Node.js/Clojure/Go/Rust/Kotlin or something else for the backend.
 
