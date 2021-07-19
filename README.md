@@ -103,7 +103,6 @@ Perhaps there is some other data which could tell us some interesting things?
 * Total number of orders 5000
 * Vaccinations done 7000
 * "2021-03-20" arrived 61 orders.
-* When counted from "2021-04-12T11:10:06.473587Z" 13620 vaccines expired before usage.
 
 ## Some tips
 
